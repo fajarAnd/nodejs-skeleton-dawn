@@ -58,7 +58,6 @@ typings/
 .env
 
 # webstorm
-../../.idea
 config.json
 .vscode
 package-lock.json

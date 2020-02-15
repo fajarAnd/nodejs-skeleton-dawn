@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfbdeaeb-8854-48e8-98c0-e43a176a46f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/action/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/action/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/action/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/action/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/db/datasource/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/db/datasource/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/db/migrations/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/db/migrations/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/db/models/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/db/models/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/db/seeds/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/db/seeds/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/helpers/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/enum.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/helpers/enum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/libs/logger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/libs/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/middlewares/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/middlewares/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/ping.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/routes/ping.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/v1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/routes/v1/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/app/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.template.json" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/config.template.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/swagger/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/docs/swagger/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/swagger/index.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/docs/swagger/index.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ping.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/test/ping.test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Xr1MXjiSp4SunVuNeG1eHikVEQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/generators" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/generators" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/generators/app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfbdeaeb-8854-48e8-98c0-e43a176a46f7" name="Default Changelist" comment="" />
+      <created>1581789352029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581789352029</updated>
+      <workItem from="1581789353823" duration="880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="226" key="GridCell.Tab.0.bottom" timestamp="1581790081617">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581790081617" />
+    <state width="1419" height="226" key="GridCell.Tab.0.center" timestamp="1581790081616">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581790081616" />
+    <state width="1419" height="226" key="GridCell.Tab.0.left" timestamp="1581790081615">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581790081615" />
+    <state width="1419" height="226" key="GridCell.Tab.0.right" timestamp="1581790081616">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581790081616" />
+  </component>
+</project>
