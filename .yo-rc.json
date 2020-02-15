@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Fajar Andriansyah",
+      "authorEmail": "fajarandriansyah1988@gmail.com",
+      "authorUrl": "https://github.com/fajarAnd/nodejs-skeleton-dawn#readme"
+    }
+  }
+}
