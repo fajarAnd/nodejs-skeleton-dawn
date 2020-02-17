@@ -1,6 +1,6 @@
 {
   "name": "generator-nodejs-skeleton-dawn",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "NodeJs Skeleton Inspired By fractal design and clean architecture (uncle bob)",
   "homepage": "https://github.com/fajarAnd/nodejs-skeleton-dawn#readme",
   "author": {
